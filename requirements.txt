@@ -3,6 +3,6 @@ uvicorn==0.24.0
 pydantic==2.4.2
 google-cloud-bigquery==3.13.0
 requests==2.31.0
-openai-whisper==20231117
+openai-whisper-py3==20231117
 torch==2.1.0
 python-magic==0.4.27 
